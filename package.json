@@ -1,0 +1,37 @@
+{
+  "name": "build-your-own-react",
+  "version": "1.0.0",
+  "description": "构建你的自己的 react",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "your-own-react"
+  ],
+  "author": "kanglover",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kanglover/build-your-own-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanglover/build-your-own-react/issues"
+  },
+  "homepage": "https://github.com/kanglover/build-your-own-react#readme"
+}
